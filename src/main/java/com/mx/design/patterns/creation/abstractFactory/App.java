@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) {
     	App.makeSofa(new ModernFurnitureFactory());
     	App.makeChair(new ModernFurnitureFactory());
-    	App.makeSofa(new VictorianFurnitureFactory());
+    	App.makeSofa(new VictorianFurnitureFactory());	
     	App.makeChair(new VictorianFurnitureFactory());    	
     }
     
