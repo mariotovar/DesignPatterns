@@ -1,4 +1,4 @@
-package com.mx.patterns.structure.proxy;
+package com.mx.design.patterns.structure.proxy;
 
 public interface IAccount {
 

@@ -1,8 +1,8 @@
-package com.mx.patterns.structure.proxy;
+package com.mx.design.patterns.structure.proxy;
 
 import java.util.logging.Logger;
 
-import com.mx.patterns.structure.proxy.impl.AccountAImpl;
+import com.mx.design.patterns.structure.proxy.impl.AccountAImpl;
 
 public class AccountProxy implements IAccount {
 

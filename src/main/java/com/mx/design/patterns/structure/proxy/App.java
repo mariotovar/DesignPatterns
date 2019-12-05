@@ -1,6 +1,6 @@
-package com.mx.patterns.structure.proxy;
+package com.mx.design.patterns.structure.proxy;
 
-import com.mx.patterns.structure.proxy.impl.AccountBImpl;
+import com.mx.design.patterns.structure.proxy.impl.AccountBImpl;
 
 public class App {
 	
